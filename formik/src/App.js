@@ -21,7 +21,7 @@ const App = () => {
       >
         {({ values }) => (
           <Form>
-            <h1>FORMIK UI CRUD OPERATION</h1>
+            <h1>FORMIK Form Validation</h1>
             <label>Name:</label>
             <Field name="name" type="text" />
             <br /> <br />
